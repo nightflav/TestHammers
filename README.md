@@ -9,3 +9,5 @@ Hammer test
   - Promos collapses
   - Can choose between two cities (Moscow and St. Petersburg) yet it doesn't affect anything.
   - Able to add to cart (Just add items to map that is located in viewModel of main screen)
+
+## Total time spend - ~4-5 hrs.
